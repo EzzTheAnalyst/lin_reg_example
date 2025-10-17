@@ -38,9 +38,9 @@ Ensure "Ecommerce Customers.csv" is in the same directory as the notebook
 
 # Model Performance
 
-**Test R² Score: 0.9804**
-**Train R² Score: 0.9817**
-**Test RMSE: ~10.56 (low error relative to mean target ~499)**
+> **Test R² Score: 0.9804**
+> **Train R² Score: 0.9817**
+> **Test RMSE: ~10.56 (low error relative to mean target ~499)**
 Coefficients (top features): Length of Membership (~62.22), Time on App (~38.55), Avg. Session Length (~25.81)
 
 # For visualizations
